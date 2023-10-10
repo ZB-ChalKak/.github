@@ -147,4 +147,9 @@
 
 # 🚨 트러블 슈팅
 
-<!-- 추가작성 -->
+### front-end
+- Navbar 랜더링 문제 해결 - https://proud-thief-ae8.notion.site/NavBar-074c2f7a9f7f4218bce9510c2486be45?pvs=4
+- 모바일 뷰 반응형 디자인 문제 해결 - https://proud-thief-ae8.notion.site/5eef44ede51f4255903cb14f58628187?pvs=4
+- api를 호출하는 버튼을 빠르게 눌렀을 때 일어나는 버그 수정 - https://proud-thief-ae8.notion.site/1b96eb821d8b42a0a91811b8277063cb?pvs=4
+- 게시글 상세페이지 CLS 문제 해결 - https://velog.io/@xnelb013/%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85-CLS-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0
+
